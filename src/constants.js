@@ -6,7 +6,7 @@ module.exports = {
   N: 100,
   MAX_TX_INPUTS: 500,
   BLOCKCHAIN_PROVIDER_DEFAULT: 'mempoolspace',
-  BLOCKCHAIN_PROVIDER_URL_DEFAULT: 'https://sochain.com/api/v2/',
+  BLOCKCHAIN_PROVIDER_URL_DEFAULT: 'https://mempool.space',
   // the order of provider names matters in PROVIDERS and PROVIDER_URLS
   // the order needs to be the same
   PROVIDERS: {
